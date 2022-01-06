@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+video {
+    position: fixed;
+
+    min-width: 100%;
+    min-height: 100%;
+
+    z-index: -1;
+
+}
+
+main   {
+    width: 40%;
+    background-position: 0cm;
+    padding: 20px;
+    }
+
+    img{
+        display:block;
+        margin: 550px;
+        position: fixed;
+        }
